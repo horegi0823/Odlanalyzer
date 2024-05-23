@@ -1,5 +1,6 @@
 # Odlanalyzer
 Odlanalyzer is a user bahavior analysis tool for OneDrive odl logs. This is based on python3.
+OneDrive odl logs parsing is heavily based on the work of Yogesh Khatri [odl.py](https://github.com/ydkhatri/OneDrive/tree/main)
 
 ## Usage
 Odlanalyzer needs to one argument which is input folder path and two options which are output folder path and general keystore folder path. Examples of usages are following :
